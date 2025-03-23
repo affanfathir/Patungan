@@ -1,0 +1,2 @@
+C:/Users/halom/Downloads/Patungan-main/Patungan-main/android/app/.cxx/Debug/1j334y4y/x86_64/CMakeFiles/edit_cache.dir
+C:/Users/halom/Downloads/Patungan-main/Patungan-main/android/app/.cxx/Debug/1j334y4y/x86_64/CMakeFiles/rebuild_cache.dir
